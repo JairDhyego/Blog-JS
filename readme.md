@@ -2,6 +2,7 @@
 Blog JS
 
 ## Link para o projeto:
+https://blog-js-phi.vercel.app
 
 ## finalizado.
 Completo.
